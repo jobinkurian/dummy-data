@@ -1,0 +1,2620 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "A.B.F",
+      "hsnCode": 2826,
+      "gst": 18
+    },
+    {
+      "id": 2,
+      "name": "Acetic Acid ",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 3,
+      "name": "Acetic Acid 50% ",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 4,
+      "name": "Acetic Acid L/R",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 5,
+      "name": "Acetone",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 6,
+      "name": "Acetone Ex. P Grade",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 7,
+      "name": "Activated Carbon Granuels",
+      "hsnCode": 3802,
+      "gst": 18
+    },
+    {
+      "id": 8,
+      "name": "Activated Carbon Powder ",
+      "hsnCode": 3802,
+      "gst": 18
+    },
+    {
+      "id": 9,
+      "name": "Aeroma Floor Cleaner ( LG )",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 10,
+      "name": "AEROMA PERFUMED FLOOR CLEANER ",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 11,
+      "name": "Aerosil 200 ( IMP )",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 12,
+      "name": "Alum Crystal",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 13,
+      "name": "Alum Powder (P) Ex. P.",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 14,
+      "name": "Ammonia 20%",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 15,
+      "name": "Ammonia P Grade",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 16,
+      "name": "Ammonia Solution Lr Grade (J)",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 17,
+      "name": "Ammonium Chloride",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 18,
+      "name": "Ammonium Chloride ( P )",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 19,
+      "name": "Ammonium Per Sulphate LR",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 20,
+      "name": "Aniline L/R ( L )",
+      "hsnCode": 2921,
+      "gst": 18
+    },
+    {
+      "id": 21,
+      "name": "Barium Carbonate",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 22,
+      "name": "Bees Wax Pure White ",
+      "hsnCode": 1521,
+      "gst": 18
+    },
+    {
+      "id": 23,
+      "name": "Bees Wax Pure Yellow LR",
+      "hsnCode": 1521,
+      "gst": 18
+    },
+    {
+      "id": 24,
+      "name": "Benzene",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 25,
+      "name": "Benzyl Alcohol LR Grade",
+      "hsnCode": 2906,
+      "gst": 18
+    },
+    {
+      "id": 26,
+      "name": "Benzyl Benzoate",
+      "hsnCode": 2916,
+      "gst": 18
+    },
+    {
+      "id": 27,
+      "name": "Bismuth Metal Powder AR ( O )",
+      "hsnCode": 8106,
+      "gst": 18
+    },
+    {
+      "id": 28,
+      "name": "Bleaching Powder (A1 Grade)",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 29,
+      "name": "Bleaching Powder (A1 Grade) -G",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 30,
+      "name": "Bleaching Powder A-1 Grade",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 31,
+      "name": "Borax ( L )",
+      "hsnCode": 2840,
+      "gst": 18
+    },
+    {
+      "id": 32,
+      "name": "Borax Powder",
+      "hsnCode": 2840,
+      "gst": 18
+    },
+    {
+      "id": 33,
+      "name": "Boric Ex. P",
+      "hsnCode": 2810,
+      "gst": 18
+    },
+    {
+      "id": 34,
+      "name": "Bromo Cresol Green Indicator Soln ( TB )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 35,
+      "name": "Bromophenol Blue Indicator Soln",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 36,
+      "name": "Bromothymol Blue Solution",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 37,
+      "name": "Bronopol",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 38,
+      "name": "BUFFER AMMONIA SOLUTION ( TB )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 39,
+      "name": "BUFFER CAPSULE pH 4.0 ( M )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 40,
+      "name": "BUFFER CAPSULE pH 7.0 ( M )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 41,
+      "name": "BUFFER SOLUTION pH 4.0 (T.B.)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 42,
+      "name": "BUFFER SOLUTION pH 7.0 (T.B.)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 43,
+      "name": "BUFFER SOLUTION pH 9.0 (T.B.)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 44,
+      "name": "Burette 50 ml ( J . S )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 45,
+      "name": "Burette 50 ml ( J . S )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 46,
+      "name": "Burette Amber 50 ml ( L )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 47,
+      "name": "Burette Clamp ",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 48,
+      "name": "Burette Stand",
+      "hsnCode": 9027,
+      "gst": 18
+    },
+    {
+      "id": 49,
+      "name": "Butyl Glycol ",
+      "hsnCode": 2909,
+      "gst": 18
+    },
+    {
+      "id": 50,
+      "name": "Calcium Carbonate",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 51,
+      "name": "Calcium Chloride  ",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 52,
+      "name": "Calcium Chloride  Dihydrate ",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 53,
+      "name": "Calcium Hydroxide Lr (O)",
+      "hsnCode": 2825,
+      "gst": 18
+    },
+    {
+      "id": 54,
+      "name": "CAPB",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 55,
+      "name": "Carbinol Dried A/R ( H )",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 56,
+      "name": "Carbo Deposit",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 57,
+      "name": "Caustic (CB)",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 58,
+      "name": "Caustic Soda Ex. P. (G Grade)",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 59,
+      "name": "Caustic Soda Ex. P.(M Grade) ",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 60,
+      "name": "Caustic Soda Ex. P.(M Grade) ",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 61,
+      "name": "Caustic Soda Flakes",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 62,
+      "name": "Caustic Soda Flakes(M)",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 63,
+      "name": "Chem Lab Coat Full Selves - Big (42 inches)",
+      "hsnCode": 6307,
+      "gst": 5
+    },
+    {
+      "id": 64,
+      "name": "Chemical Pump Grade I ( Small )",
+      "hsnCode": 84132000,
+      "gst": 28
+    },
+    {
+      "id": 65,
+      "name": "Chemical Pump Grade II ( Big )",
+      "hsnCode": 84132000,
+      "gst": 28
+    },
+    {
+      "id": 66,
+      "name": "Chemical Pump Grade II ( Small )",
+      "hsnCode": 84132000,
+      "gst": 28
+    },
+    {
+      "id": 67,
+      "name": "Chloroform Ex. Pure",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 68,
+      "name": "Chromic",
+      "hsnCode": 2819,
+      "gst": 18
+    },
+    {
+      "id": 69,
+      "name": "Citric",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 70,
+      "name": "Citric Ex.P",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 71,
+      "name": "Conical Flask 250 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 72,
+      "name": "Copper (I) Chloride ( Cuprous ) L/R",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 73,
+      "name": "Copper Chloride Dihydrate Lr",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 74,
+      "name": "Copper Sulphate",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 75,
+      "name": "Crylo Gl 271 White ",
+      "hsnCode": 3215,
+      "gst": 12
+    },
+    {
+      "id": 76,
+      "name": "Crylo Gl 901 Improver",
+      "hsnCode": 3215,
+      "gst": 12
+    },
+    {
+      "id": 77,
+      "name": "Cyclohexanone",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 78,
+      "name": "D.E.G. Ex. P. ",
+      "hsnCode": 2909,
+      "gst": 18
+    },
+    {
+      "id": 79,
+      "name": "D.I Water",
+      "hsnCode": 2853,
+      "gst": 18
+    },
+    {
+      "id": 80,
+      "name": "D.M. Water",
+      "hsnCode": 2853,
+      "gst": 18
+    },
+    {
+      "id": 81,
+      "name": "DBCP(DH) (Di Basic Calcium Phosphate)",
+      "hsnCode": 2835,
+      "gst": 18
+    },
+    {
+      "id": 82,
+      "name": "Density Meter",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 83,
+      "name": "Dewax Bleach Shellac Powder",
+      "hsnCode": 1301,
+      "gst": 0
+    },
+    {
+      "id": 84,
+      "name": "DI ETHYL AMINE",
+      "hsnCode": 2921,
+      "gst": 18
+    },
+    {
+      "id": 85,
+      "name": "Disinfecting Spray Pump M- 16ltr",
+      "hsnCode": 8424,
+      "gst": 12
+    },
+    {
+      "id": 86,
+      "name": "Disposable Caps ( Blue )",
+      "hsnCode": 3926,
+      "gst": 5
+    },
+    {
+      "id": 87,
+      "name": "Distilled Water",
+      "hsnCode": 2853,
+      "gst": 18
+    },
+    {
+      "id": 88,
+      "name": "DMF",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 89,
+      "name": "E.D.T.A 0.1M ( TB )",
+      "hsnCode": 2922,
+      "gst": 18
+    },
+    {
+      "id": 90,
+      "name": "E.D.T.A N/50 0.02 ( L )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 91,
+      "name": "EDTA 0.1N 3 Amps ( L )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 92,
+      "name": "EDTA Di Sodium",
+      "hsnCode": 2922,
+      "gst": 18
+    },
+    {
+      "id": 93,
+      "name": "EDTA Di Sodium LR Grade",
+      "hsnCode": 2922,
+      "gst": 18
+    },
+    {
+      "id": 94,
+      "name": "EDTA N/50 ( 0.02 N) (Lo)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 95,
+      "name": "Emulsifier 9.5 Ex. Pure",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 96,
+      "name": "Eriochrome BLACK T Indicator",
+      "hsnCode": 3204,
+      "gst": 18
+    },
+    {
+      "id": 97,
+      "name": "Ethyl Acetate ",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 98,
+      "name": "Ethyl Acetate (L)",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 99,
+      "name": "Ferric Chloride",
+      "hsnCode": 2838,
+      "gst": 18
+    },
+    {
+      "id": 100,
+      "name": "Ferric Chloride L Form",
+      "hsnCode": 2838,
+      "gst": 18
+    },
+    {
+      "id": 101,
+      "name": "Ferric Nitrate Nonahydrate",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 102,
+      "name": "Ferric Oxide Red",
+      "hsnCode": 2821,
+      "gst": 18
+    },
+    {
+      "id": 103,
+      "name": "Ferric Sulphate L/R Grade",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 104,
+      "name": "FERROUS SULPHATE Hepta L/R (O )",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 105,
+      "name": "Filter Paper 10'' (Hole)",
+      "hsnCode": 4805,
+      "gst": 12
+    },
+    {
+      "id": 106,
+      "name": "Filter Paper 12'' (Hole)",
+      "hsnCode": 4805,
+      "gst": 12
+    },
+    {
+      "id": 107,
+      "name": "Filter Paper 6'' (Hole)",
+      "hsnCode": 4805,
+      "gst": 12
+    },
+    {
+      "id": 108,
+      "name": "Filter Paper 8'' (Hole)",
+      "hsnCode": 4805,
+      "gst": 12
+    },
+    {
+      "id": 109,
+      "name": "Flame Guard P0 12",
+      "hsnCode": 29199090,
+      "gst": 18
+    },
+    {
+      "id": 110,
+      "name": "Formaldehyde",
+      "hsnCode": 2912,
+      "gst": 18
+    },
+    {
+      "id": 111,
+      "name": "Formaldehyde LR",
+      "hsnCode": 2912,
+      "gst": 18
+    },
+    {
+      "id": 112,
+      "name": "Funnel ( L )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 113,
+      "name": "Gelatine",
+      "hsnCode": 3503,
+      "gst": 18
+    },
+    {
+      "id": 114,
+      "name": "Gindox 214",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 115,
+      "name": "Gintek CU 56",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 116,
+      "name": "Glass Stirrer 12''",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 117,
+      "name": "Gloves ( A ) 14 INCH",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 118,
+      "name": "Gloves ( A ) 16 INCH",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 119,
+      "name": "Gloves ( A ) 18 INCH",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 120,
+      "name": "Gloves (Y)",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 121,
+      "name": "Gloves Solvent",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 122,
+      "name": "Gloves Solvent ( G )",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 123,
+      "name": "Gloves Yellow 16 INCH",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 124,
+      "name": "Glycerine",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 125,
+      "name": "Glyoxal 40 (B)",
+      "hsnCode": 2912,
+      "gst": 18
+    },
+    {
+      "id": 126,
+      "name": "Graphite Powder Ex. Pure",
+      "hsnCode": 3801,
+      "gst": 18
+    },
+    {
+      "id": 127,
+      "name": "Growclean 115",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 128,
+      "name": "Gum Acacia ",
+      "hsnCode": 1301,
+      "gst": 5
+    },
+    {
+      "id": 129,
+      "name": "H.C.L",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 130,
+      "name": "H.C.L 0.1 N ( T.B )",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 131,
+      "name": "H.C.L 0.5 N ( L )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 132,
+      "name": "H.C.L 1 N ( T.B )",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 133,
+      "name": "H.C.L CP Grade",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 134,
+      "name": "H.C.L Ex P",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 135,
+      "name": "H.C.L L/R Grade",
+      "hsnCode": 2806,
+      "gst": 18
+    },
+    {
+      "id": 136,
+      "name": "Hand Cleanser ( C )",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 137,
+      "name": "Hand Cleanser ( T- Oil )",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 138,
+      "name": "Hand Rub 70 %(S) ",
+      "hsnCode": 3808,
+      "gst": 18
+    },
+    {
+      "id": 139,
+      "name": "Hand Rub 80 %(V) ",
+      "hsnCode": 3808,
+      "gst": 18
+    },
+    {
+      "id": 140,
+      "name": "Hand Sanitizer 80%(V)",
+      "hsnCode": 3808,
+      "gst": 18
+    },
+    {
+      "id": 141,
+      "name": "Hand Sanitizer Liquid",
+      "hsnCode": 3808,
+      "gst": 18
+    },
+    {
+      "id": 142,
+      "name": "Hand Wash ( O )",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 143,
+      "name": "HENE ADDITIVE NO - 1",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 144,
+      "name": "HENE ADDITIVE NO - 2",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 145,
+      "name": "HENE CHROME 2009 SALT",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 146,
+      "name": "Hexylene Glycol",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 147,
+      "name": "Hydrated Lime ",
+      "hsnCode": 2501,
+      "gst": 5
+    },
+    {
+      "id": 148,
+      "name": "Hydrofluoric ( HF )",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 149,
+      "name": "Hydrofluoric ( HF ) - 40% LR",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 150,
+      "name": "Hydrofluoric ( HF ) - 60%",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 151,
+      "name": "Hydrogen Peroxide (HP -6%)",
+      "hsnCode": 2847,
+      "gst": 18
+    },
+    {
+      "id": 152,
+      "name": "Hydrogen Peroxide (HP)",
+      "hsnCode": 2847,
+      "gst": 18
+    },
+    {
+      "id": 153,
+      "name": "I.P.A",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 154,
+      "name": "I.P.A 70%",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 155,
+      "name": "I.P.A Ex.P Grade",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 156,
+      "name": "Iodine Solution N/10",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 157,
+      "name": "Iso Propyl Alcohol Ex. P",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 158,
+      "name": "Iso Propyl Alcohol L/R ( TB )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 159,
+      "name": "Kanatol 800 ",
+      "hsnCode": 2917,
+      "gst": 18
+    },
+    {
+      "id": 160,
+      "name": "Karl Fisher Reagent",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 161,
+      "name": "Kromo 205 Green",
+      "hsnCode": 32049000,
+      "gst": 18
+    },
+    {
+      "id": 162,
+      "name": "L. Light Paraffin Oil (LLP) Ex.P",
+      "hsnCode": 2710,
+      "gst": 18
+    },
+    {
+      "id": 163,
+      "name": "Labsa",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 164,
+      "name": "Labsa ( Acid Slurry ) 90%",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 165,
+      "name": "Lactic Acid ",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 166,
+      "name": "Latex Gloves (V)",
+      "hsnCode": 4015,
+      "gst": 12
+    },
+    {
+      "id": 167,
+      "name": "Lauric Acid L/R ( O )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 168,
+      "name": "Lead Monoxide ( Lead Oxide Yellow )",
+      "hsnCode": 2824,
+      "gst": 18
+    },
+    {
+      "id": 169,
+      "name": "Light Liquid Parafin Oil LR",
+      "hsnCode": 2710,
+      "gst": 18
+    },
+    {
+      "id": 170,
+      "name": "Liquor Ammonia",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 171,
+      "name": "Liquor Ammonia Ex p",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 172,
+      "name": "Liquor Ammonia L/R Grade",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 173,
+      "name": "LPR Dye Blue",
+      "hsnCode": 3204,
+      "gst": 18
+    },
+    {
+      "id": 174,
+      "name": "M. Ethylene Glycol",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 175,
+      "name": "M.D.C",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 176,
+      "name": "M.E.G",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 177,
+      "name": "M.I.B.K",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 178,
+      "name": "M.I.B.K ( M )",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 179,
+      "name": "M.I.B.K ( M ) CP Grade",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 180,
+      "name": "M.I.B.K ( T )",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 181,
+      "name": "Magnesium Nitrate Hexahydrate",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 182,
+      "name": "Magnesium Stearate L/R",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 183,
+      "name": "Magnetic Stirrer With Hot Plate",
+      "hsnCode": 8479,
+      "gst": 18
+    },
+    {
+      "id": 184,
+      "name": "Maize Starch",
+      "hsnCode": 1108,
+      "gst": 12
+    },
+    {
+      "id": 185,
+      "name": "Malic L/R ( O )",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 186,
+      "name": "Mask 3Ply (B)",
+      "hsnCode": 3926,
+      "gst": 5
+    },
+    {
+      "id": 187,
+      "name": "Mask cotton (G)",
+      "hsnCode": 3926,
+      "gst": 5
+    },
+    {
+      "id": 188,
+      "name": "Mask waterproof (W)",
+      "hsnCode": 3926,
+      "gst": 5
+    },
+    {
+      "id": 189,
+      "name": "MCB",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 190,
+      "name": "MCCP ( V )",
+      "hsnCode": 3912,
+      "gst": 18
+    },
+    {
+      "id": 191,
+      "name": "MDC",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 192,
+      "name": "Measuring Beaker 100 ml ( B )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 193,
+      "name": "Measuring Beaker 1000 ml ",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 194,
+      "name": "Measuring Beaker 2000 ml ",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 195,
+      "name": "Measuring Beaker 250 ml ",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 196,
+      "name": "Measuring Beaker 250 ml Borosil",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 197,
+      "name": "Measuring Beaker 3000 ml ( B )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 198,
+      "name": "Measuring Beaker 500 ml ( B )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 199,
+      "name": "Measuring Cyclinder 50 ml (B)",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 200,
+      "name": "Measuring Cylinder 10 ML",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 201,
+      "name": "Measuring Cylinder 100 ML ( B )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 202,
+      "name": "Measuring Cylinder 1000ml (B)",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 203,
+      "name": "Measuring Cylinder 100ml (B)",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 204,
+      "name": "Measuring Jug 1000 ml ",
+      "hsnCode": 39269099,
+      "gst": 18
+    },
+    {
+      "id": 205,
+      "name": "Measuring Jug 2000 ml ",
+      "hsnCode": 39269099,
+      "gst": 18
+    },
+    {
+      "id": 206,
+      "name": "Measuring Jug 250 ml ",
+      "hsnCode": 3926,
+      "gst": 18
+    },
+    {
+      "id": 207,
+      "name": "Measuring Jug 500 ml ",
+      "hsnCode": 3926,
+      "gst": 18
+    },
+    {
+      "id": 208,
+      "name": "Measuring Jug 5000 ml ",
+      "hsnCode": 39269099,
+      "gst": 18
+    },
+    {
+      "id": 209,
+      "name": "Mercuric Oxide Red ( L )",
+      "hsnCode": 2852,
+      "gst": 18
+    },
+    {
+      "id": 210,
+      "name": "Methyl Iso Butyl Ketone",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 211,
+      "name": "Methyl Orange Indicator Soln ( TB )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 212,
+      "name": "Methyl Paraben Ex.Pure Grade",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 213,
+      "name": "Methyl Red Solution",
+      "hsnCode": 2927,
+      "gst": 18
+    },
+    {
+      "id": 214,
+      "name": "MIBK CP Grade",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 215,
+      "name": "MIBKE Grade",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 216,
+      "name": "MIBKM Grade",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 217,
+      "name": "Mintroleum 60-80  (NH)",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 218,
+      "name": "Mintroleum n-Hep",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 219,
+      "name": "Mintroleum n-Hex",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 220,
+      "name": "Mist Free Liquid",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 221,
+      "name": "Mist Free Powder",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 222,
+      "name": "Mono Chloro Benzene (M.C.B.)",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 223,
+      "name": "Multi Surface Fumigation (V.G)",
+      "hsnCode": 3814,
+      "gst": 18
+    },
+    {
+      "id": 224,
+      "name": "Murexide ( O )",
+      "hsnCode": 2933,
+      "gst": 18
+    },
+    {
+      "id": 225,
+      "name": "Myristic Acid L/R ( O )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 226,
+      "name": "Napthalene LR Grade",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 227,
+      "name": "NB Stearate EP",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 228,
+      "name": "N-Butyl Alcohol (Butanol) TB",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 229,
+      "name": "n-heptane LR Grade (O)",
+      "hsnCode": 2901,
+      "gst": 18
+    },
+    {
+      "id": 230,
+      "name": "Nickel Chloride",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 231,
+      "name": "Nickel Sulphate",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 232,
+      "name": "Nitric Acid ",
+      "hsnCode": 2808,
+      "gst": 18
+    },
+    {
+      "id": 233,
+      "name": "Nitric Acid L/R Grade",
+      "hsnCode": 2808,
+      "gst": 18
+    },
+    {
+      "id": 234,
+      "name": "Nitril Gloves (D)M",
+      "hsnCode": 4105,
+      "gst": 18
+    },
+    {
+      "id": 235,
+      "name": "Nitrile Gloves (N)",
+      "hsnCode": 4015,
+      "gst": 12
+    },
+    {
+      "id": 236,
+      "name": "Nitro Benzene",
+      "hsnCode": 2904,
+      "gst": 18
+    },
+    {
+      "id": 237,
+      "name": "O. Phosphoric Acid",
+      "hsnCode": 2809,
+      "gst": 18
+    },
+    {
+      "id": 238,
+      "name": "Octanol Ex. Pure",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 239,
+      "name": "Oleic Acid",
+      "hsnCode": 3823,
+      "gst": 18
+    },
+    {
+      "id": 240,
+      "name": "Oxalic Ex. P.",
+      "hsnCode": 2917,
+      "gst": 18
+    },
+    {
+      "id": 241,
+      "name": "Oxylene",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 242,
+      "name": "PEG  400",
+      "hsnCode": 3907,
+      "gst": 18
+    },
+    {
+      "id": 243,
+      "name": "Petri dish (80 MM) ",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 244,
+      "name": "Petroleum Ether 60-80",
+      "hsnCode": 2710,
+      "gst": 18
+    },
+    {
+      "id": 245,
+      "name": "Petroleum Jelly W - Lr grade",
+      "hsnCode": 2712,
+      "gst": 18
+    },
+    {
+      "id": 246,
+      "name": "Ph Electrode (Glass)",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 247,
+      "name": "pH Indicator Paper (pH 1.0 - 14.0) ( TB )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 248,
+      "name": "pH Indicator Paper (pH 1.0 - 14.0) ( U )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 249,
+      "name": "pH Indicator Paper (pH 3.8 - 5.4)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 250,
+      "name": "PH Meter",
+      "hsnCode": 9027,
+      "gst": 18
+    },
+    {
+      "id": 251,
+      "name": "pH Universal Indicator Paper (pH 1 - 10) (M)",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 252,
+      "name": "pH Universal Indicator Paper (pH 1 - 14) (U)",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 253,
+      "name": "Phenol Crystal LR Grade",
+      "hsnCode": 2907,
+      "gst": 18
+    },
+    {
+      "id": 254,
+      "name": "Phenolphthalein Indi. Solu. (T.B)",
+      "hsnCode": 2932,
+      "gst": 18
+    },
+    {
+      "id": 255,
+      "name": "Phenolphthalein Indicator Soln ( TB )",
+      "hsnCode": 2932,
+      "gst": 12
+    },
+    {
+      "id": 256,
+      "name": "Pine Oil",
+      "hsnCode": 3805,
+      "gst": 18
+    },
+    {
+      "id": 257,
+      "name": "Pipette 1 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 258,
+      "name": "Pipette 10 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 259,
+      "name": "Pipette 10 ml A - Class ( Certified )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 260,
+      "name": "Pipette 2 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 261,
+      "name": "Pipette 25 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 262,
+      "name": "Pipette 5 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 263,
+      "name": "Plastic Bottles",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 264,
+      "name": "Plastic Measuring Beaker 500 ml ",
+      "hsnCode": 3926,
+      "gst": 18
+    },
+    {
+      "id": 265,
+      "name": "Plastic Measuring Cylinder 100 ML ",
+      "hsnCode": 3926,
+      "gst": 18
+    },
+    {
+      "id": 266,
+      "name": "Potassium Carbonate",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 267,
+      "name": "Potassium Chloride",
+      "hsnCode": 3104,
+      "gst": 18
+    },
+    {
+      "id": 268,
+      "name": "Potassium di Chromate Lr",
+      "hsnCode": 2841,
+      "gst": 18
+    },
+    {
+      "id": 269,
+      "name": "Potassium Ferricyanide Lr Grade",
+      "hsnCode": 2837,
+      "gst": 18
+    },
+    {
+      "id": 270,
+      "name": "Potassium Hydroxide 0.1N ( LO )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 271,
+      "name": "Potassium Hydroxide Flakes (J)",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 272,
+      "name": "Potassium Hydroxide Pellets ( J )",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 273,
+      "name": "Potassium Hydroxide Pellets ( M )",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 274,
+      "name": "POTASSIUM HYDROXIDE SOLUTION N/10",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 275,
+      "name": "Potassium Iodate Soln N/10",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 276,
+      "name": "potassium iodode Lr (o)",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 277,
+      "name": "Potassium Nitrate",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 278,
+      "name": "Potassium Permanganate",
+      "hsnCode": 2841,
+      "gst": 18
+    },
+    {
+      "id": 279,
+      "name": "Potassium Persulphate",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 280,
+      "name": "Potassium Sulphate L/R ( O )",
+      "hsnCode": 3104,
+      "gst": 18
+    },
+    {
+      "id": 281,
+      "name": "Power Shakti Battery Pump (12vt 8Ah)",
+      "hsnCode": 8424,
+      "gst": 12
+    },
+    {
+      "id": 282,
+      "name": "PP JAR Square with handle",
+      "hsnCode": 3923,
+      "gst": 18
+    },
+    {
+      "id": 283,
+      "name": "PR E-1020",
+      "hsnCode": 3707,
+      "gst": 18
+    },
+    {
+      "id": 284,
+      "name": "PR E-1020",
+      "hsnCode": 3707,
+      "gst": 18
+    },
+    {
+      "id": 285,
+      "name": "PR Thinner",
+      "hsnCode": 3814,
+      "gst": 18
+    },
+    {
+      "id": 286,
+      "name": "PR Thinner",
+      "hsnCode": 3814,
+      "gst": 18
+    },
+    {
+      "id": 287,
+      "name": "Premix Masala Tea",
+      "hsnCode": 21012090,
+      "gst": 18
+    },
+    {
+      "id": 288,
+      "name": "Propyl Paraben Ex.Pure  Grade",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 289,
+      "name": "Propylene Glycol",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 290,
+      "name": "Propylene Glycol Monomethyl Ether",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 291,
+      "name": "Propylene Glycol Monomethyl Ether ( L )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 292,
+      "name": "PVC Wire Rope 6m",
+      "hsnCode": 7312,
+      "gst": 18
+    },
+    {
+      "id": 293,
+      "name": "Reagent Bottle Screw Cap",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 294,
+      "name": "Reducer AR550 Grade",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 295,
+      "name": "Rochelle Copper Salt",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 296,
+      "name": "Rubber Bulb ( B )",
+      "hsnCode": 4014,
+      "gst": 18
+    },
+    {
+      "id": 297,
+      "name": "Rubber Bulb ( M )",
+      "hsnCode": 4014,
+      "gst": 18
+    },
+    {
+      "id": 298,
+      "name": "Rubbing Alcohol IPA ( 70% )",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 299,
+      "name": "S Goggles",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 300,
+      "name": "Silica Gel Blue (1 GM ) L/R Grade",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 301,
+      "name": "Silica Gel White (1 GM ) L/R Grade",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 302,
+      "name": "Silica Gel White L/R Grade",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 303,
+      "name": "Silica P",
+      "hsnCode": 2518,
+      "gst": 5
+    },
+    {
+      "id": 304,
+      "name": "Silicon Emulsion",
+      "hsnCode": 3910,
+      "gst": 18
+    },
+    {
+      "id": 305,
+      "name": "Silicon Oil 1000 Grade",
+      "hsnCode": 3910,
+      "gst": 18
+    },
+    {
+      "id": 306,
+      "name": "Silicon Oil 350 Grade",
+      "hsnCode": 3910,
+      "gst": 18
+    },
+    {
+      "id": 307,
+      "name": "Silver Nitrate ( J )",
+      "hsnCode": 2843,
+      "gst": 18
+    },
+    {
+      "id": 308,
+      "name": "Silver Nitrate 0.1N ( O )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 309,
+      "name": "Silver Nitrate Solution 0.1N 3 Amps ( L )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 310,
+      "name": "SLES",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 311,
+      "name": "SLS",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 312,
+      "name": "SLS Needles L/R ( O )",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 313,
+      "name": "SN Grade",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 314,
+      "name": "Soda Ash",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 315,
+      "name": "Soda Ash ( I )",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 316,
+      "name": "Sodium Acetate Anhydrous L/R ( J )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 317,
+      "name": "Sodium Azide AR Grade ",
+      "hsnCode": 2850,
+      "gst": 18
+    },
+    {
+      "id": 318,
+      "name": "Sodium Benzoate Ex. P.",
+      "hsnCode": 2916,
+      "gst": 18
+    },
+    {
+      "id": 319,
+      "name": "Sodium Bi Carbonate",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 320,
+      "name": "Sodium Carbonate Ex p",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 321,
+      "name": "Sodium Chloride (TAX FREE)",
+      "hsnCode": 2501,
+      "gst": 0
+    },
+    {
+      "id": 322,
+      "name": "Sodium Di Chromate Ex. Pure ",
+      "hsnCode": 2841,
+      "gst": 18
+    },
+    {
+      "id": 323,
+      "name": "Sodium fluoride Lr (O)",
+      "hsnCode": 2826,
+      "gst": 18
+    },
+    {
+      "id": 324,
+      "name": "Sodium Hydroxide 0.1 N TB",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 325,
+      "name": "Sodium Hydroxide 1 N 3 Amps ( L )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 326,
+      "name": "Sodium Hydroxide 1.0 N TB",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 327,
+      "name": "Sodium Hydroxide Flakes ( J )",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 328,
+      "name": "Sodium Hydroxide Flakes L/R ( IS Grade )",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 329,
+      "name": "Sodium Hydroxide Pellets",
+      "hsnCode": 2815,
+      "gst": 18
+    },
+    {
+      "id": 330,
+      "name": "Sodium Hypo Chlorite (4-6)",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 331,
+      "name": "Sodium Hypo Chlorite (SHS)",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 332,
+      "name": "Sodium Lauryl Sulphate Powder L/R",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 333,
+      "name": "SODIUM META BISULPHITE (SMBS)",
+      "hsnCode": 2832,
+      "gst": 18
+    },
+    {
+      "id": 334,
+      "name": "Sodium Methyl Paraben Ex.Pure Grade",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 335,
+      "name": "Sodium Nitrate ",
+      "hsnCode": 3102,
+      "gst": 18
+    },
+    {
+      "id": 336,
+      "name": "Sodium Nitrite",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 337,
+      "name": "Sodium Nitrite",
+      "hsnCode": 2834,
+      "gst": 18
+    },
+    {
+      "id": 338,
+      "name": "Sodium Phosphate Dibasic",
+      "hsnCode": 2835,
+      "gst": 18
+    },
+    {
+      "id": 339,
+      "name": "Sodium Phosphate Monobasic",
+      "hsnCode": 2835,
+      "gst": 18
+    },
+    {
+      "id": 340,
+      "name": "Sodium Pottasium Tartarate Ex.p",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 341,
+      "name": "Sodium Propyl Paraben Ex.Pure  Grade",
+      "hsnCode": 2918,
+      "gst": 18
+    },
+    {
+      "id": 342,
+      "name": "Sodium Silicate",
+      "hsnCode": 2839,
+      "gst": 18
+    },
+    {
+      "id": 343,
+      "name": "Sodium Sulphate",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 344,
+      "name": "Sodium Sulphide Flakes L/R ( O )",
+      "hsnCode": 2830,
+      "gst": 18
+    },
+    {
+      "id": 345,
+      "name": "Sodium thiosulphate 0.1n (O)",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 346,
+      "name": "Sodium Tripoly Phosphate (STPP)",
+      "hsnCode": 2835,
+      "gst": 18
+    },
+    {
+      "id": 347,
+      "name": "Sorbic Acid",
+      "hsnCode": 2916,
+      "gst": 18
+    },
+    {
+      "id": 348,
+      "name": "Sorbitol Liquid 70% ",
+      "hsnCode": 2905,
+      "gst": 18
+    },
+    {
+      "id": 349,
+      "name": "Spatula",
+      "hsnCode": 7326,
+      "gst": 18
+    },
+    {
+      "id": 350,
+      "name": "Sprayer Pump 5ltr",
+      "hsnCode": 8424,
+      "gst": 12
+    },
+    {
+      "id": 351,
+      "name": "Square Bottle with pump",
+      "hsnCode": 3923,
+      "gst": 18
+    },
+    {
+      "id": 352,
+      "name": "Stabilized Softner Kanatol - 800 (K)",
+      "hsnCode": 2917,
+      "gst": 18
+    },
+    {
+      "id": 353,
+      "name": "Stannolume Brightner",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 354,
+      "name": "Stannolume Carrier Additive ",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 355,
+      "name": "Starch Indicator Soln ( L )",
+      "hsnCode": 3822,
+      "gst": 18
+    },
+    {
+      "id": 356,
+      "name": "Starch Iodide Paper (LO)",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 357,
+      "name": "Stearic Acid L/R ( O )",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 358,
+      "name": "Steelex K20",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 359,
+      "name": "Steelex K-20",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 360,
+      "name": "Sulphamic Acid",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 361,
+      "name": "Sulphuric ",
+      "hsnCode": 2807,
+      "gst": 18
+    },
+    {
+      "id": 362,
+      "name": "Sulphuric Acid 0.1N ( TB )",
+      "hsnCode": 2807,
+      "gst": 18
+    },
+    {
+      "id": 363,
+      "name": "Sulphuric Acid L/R Grade",
+      "hsnCode": 2807,
+      "gst": 18
+    },
+    {
+      "id": 364,
+      "name": "Sulphuric Acid Solution 1 N  TB ",
+      "hsnCode": 2807,
+      "gst": 18
+    },
+    {
+      "id": 365,
+      "name": "Sulphuric CP  Grade",
+      "hsnCode": 2807,
+      "gst": 18
+    },
+    {
+      "id": 366,
+      "name": "SURCLEAN 400",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 367,
+      "name": "Surfix ZN 602",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 368,
+      "name": "Surgical Mask (Blue)",
+      "hsnCode": 9018,
+      "gst": 18
+    },
+    {
+      "id": 369,
+      "name": "Surgical Mask (Green)",
+      "hsnCode": 9018,
+      "gst": 18
+    },
+    {
+      "id": 370,
+      "name": "T.C.E Ex.p",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 371,
+      "name": "T.C.E.C  L/R GRADE",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 372,
+      "name": "T.H .F Ex.P",
+      "hsnCode": 2932,
+      "gst": 18
+    },
+    {
+      "id": 373,
+      "name": "T.R.O. 70% (A-Grade)",
+      "hsnCode": 3926,
+      "gst": 5
+    },
+    {
+      "id": 374,
+      "name": "T.T.C.L",
+      "hsnCode": 3815,
+      "gst": 18
+    },
+    {
+      "id": 375,
+      "name": "Talcum (Talc Purified)",
+      "hsnCode": 2839,
+      "gst": 5
+    },
+    {
+      "id": 376,
+      "name": "TCCA - 90 (J- Brand)",
+      "hsnCode": 2828,
+      "gst": 18
+    },
+    {
+      "id": 377,
+      "name": "TCPP ( HEG )",
+      "hsnCode": 2921,
+      "gst": 18
+    },
+    {
+      "id": 378,
+      "name": "TDS Meter (H)",
+      "hsnCode": 9027,
+      "gst": 18
+    },
+    {
+      "id": 379,
+      "name": "Teflon Stirrer Rod",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 380,
+      "name": "Test tube ( With Rim )",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 381,
+      "name": "Thermometer 0*-110* (Mercury)",
+      "hsnCode": 9025,
+      "gst": 18
+    },
+    {
+      "id": 382,
+      "name": "Thermometer 0*-250* (Mercury)",
+      "hsnCode": 9025,
+      "gst": 18
+    },
+    {
+      "id": 383,
+      "name": "Thinner 02 N - Grade",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 384,
+      "name": "Thiourea L/R GRADE",
+      "hsnCode": 2930,
+      "gst": 18
+    },
+    {
+      "id": 385,
+      "name": "Titanium Dioxide (J)",
+      "hsnCode": 2823,
+      "gst": 18
+    },
+    {
+      "id": 386,
+      "name": "Toilet Cleaner",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 387,
+      "name": "Toluene",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 388,
+      "name": "Toluene ( N Grade )",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 389,
+      "name": "Toluene PE 60-80",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 390,
+      "name": "Transport Charges",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 391,
+      "name": "Tri Chloro Ethylene ( C ) Ex.P",
+      "hsnCode": 2903,
+      "gst": 18
+    },
+    {
+      "id": 392,
+      "name": "Tri Ethyl Amine",
+      "hsnCode": 2921,
+      "gst": 18
+    },
+    {
+      "id": 393,
+      "name": "Triethanolamine (Tea)",
+      "hsnCode": 2922,
+      "gst": 18
+    },
+    {
+      "id": 394,
+      "name": "Tropaeline O ( L )",
+      "hsnCode": 3212,
+      "gst": 18
+    },
+    {
+      "id": 395,
+      "name": "Tween 20 ",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 396,
+      "name": "Tween 80",
+      "hsnCode": 3402,
+      "gst": 18
+    },
+    {
+      "id": 397,
+      "name": "Universal pH Indicator ( TB )",
+      "hsnCode": 3822,
+      "gst": 12
+    },
+    {
+      "id": 398,
+      "name": "Volumetric Flask 100 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 399,
+      "name": "Volumetric Flask 500 ml",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 400,
+      "name": "Watch Glass",
+      "hsnCode": 7017,
+      "gst": 18
+    },
+    {
+      "id": 401,
+      "name": "White Phenyl",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 402,
+      "name": "Xanthan Gum L/R ( O )",
+      "hsnCode": 1301,
+      "gst": 5
+    },
+    {
+      "id": 403,
+      "name": "Zinc Chloride 92% ( FD)",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 404,
+      "name": "Zinc Chloride 96% ( FD)",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 405,
+      "name": "Zinc Chloride Ex. Pure",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 406,
+      "name": "Zinc Ignot (98kg)",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 407,
+      "name": "Zincalite 67 M",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 408,
+      "name": "Zincalite 67 M-30 R-5",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 409,
+      "name": "Zincalite 67 R",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 410,
+      "name": "2-phenoxyethanol",
+      "hsnCode": 2909,
+      "gst": 18
+    },
+    {
+      "id": 411,
+      "name": "3 in 1 Chemical",
+      "hsnCode": 2809,
+      "gst": 18
+    }
+  ],
+  "state": [
+    {
+      "id": "01",
+      "name": "Jammu & Kashmir"
+    },
+    {
+      "id": "02",
+      "name": "Himachal Pradesh"
+    },
+    {
+      "id": "03",
+      "name": "Punjab"
+    },
+    {
+      "id": "04",
+      "name": "Chandigarh"
+    },
+    {
+      "id": "05",
+      "name": "Uttarakhand"
+    },
+    {
+      "id": "06",
+      "name": "Haryana"
+    },
+    {
+      "id": "07",
+      "name": "Delhi"
+    },
+    {
+      "id": "08",
+      "name": "Rajasthan"
+    },
+    {
+      "id": "09",
+      "name": "Uttar Pradesh"
+    },
+    {
+      "id": "10",
+      "name": "Bihar"
+    },
+    {
+      "id": "11",
+      "name": "Sikkim"
+    },
+    {
+      "id": "12",
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "id": "13",
+      "name": "Nagaland"
+    },
+    {
+      "id": "14",
+      "name": "Manipur"
+    },
+    {
+      "id": "15",
+      "name": "Mizoram"
+    },
+    {
+      "id": "16",
+      "name": "Tripura"
+    },
+    {
+      "id": "17",
+      "name": "Meghalaya"
+    },
+    {
+      "id": "18",
+      "name": "Assam"
+    },
+    {
+      "id": "19",
+      "name": "West Bengal"
+    },
+    {
+      "id": "20",
+      "name": "Jharkhand"
+    },
+    {
+      "id": "21",
+      "name": "Odisha"
+    },
+    {
+      "id": "22",
+      "name": "Chhattisgarh"
+    },
+    {
+      "id": "23",
+      "name": "Madhya Pradesh"
+    },
+    {
+      "id": "24",
+      "name": "Gujarat"
+    },
+    {
+      "id": "25",
+      "name": "Daman & Diu"
+    },
+    {
+      "id": "26",
+      "name": "Dadra & Nagar Haveli"
+    },
+    {
+      "id": "27",
+      "name": "Maharashtra"
+    },
+    {
+      "id": "29",
+      "name": "Karnataka"
+    },
+    {
+      "id": "30",
+      "name": "Goa"
+    },
+    {
+      "id": "31",
+      "name": "Lakshdweep"
+    },
+    {
+      "id": "32",
+      "name": "Kerala"
+    },
+    {
+      "id": "33",
+      "name": "Tamil Nadu"
+    },
+    {
+      "id": "34",
+      "name": "Puducherry"
+    },
+    {
+      "id": "35",
+      "name": "Andaman & Nicobar Islands"
+    },
+    {
+      "id": "36",
+      "name": "Telangana"
+    },
+    {
+      "id": "37",
+      "name": "Andhra Pradesh"
+    },
+    {
+      "id": "97",
+      "name": "Other Territory"
+    }
+  ]
+}
