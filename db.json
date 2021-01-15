@@ -1,1 +1,272 @@
-{"products":[{"id":1,"name":"A.B.F","hsnCode":2826,"gst":18},{"id":2,"name":"Acetic Acid ","hsnCode":2915,"gst":18},{"id":3,"name":"Acetic Acid 50% ","hsnCode":2915,"gst":18},{"id":4,"name":"Acetic Acid L/R","hsnCode":2915,"gst":18},{"id":5,"name":"Acetone","hsnCode":2914,"gst":18},{"id":6,"name":"Acetone Ex. P Grade","hsnCode":2914,"gst":18},{"id":7,"name":"Activated Carbon Granuels","hsnCode":3802,"gst":18},{"id":8,"name":"Activated Carbon Powder ","hsnCode":3802,"gst":18},{"id":9,"name":"Aeroma Floor Cleaner ( LG )","hsnCode":3824,"gst":18},{"id":10,"name":"AEROMA PERFUMED FLOOR CLEANER ","hsnCode":3824,"gst":18},{"id":11,"name":"Aerosil 200 ( IMP )","hsnCode":2811,"gst":18},{"id":12,"name":"Alum Crystal","hsnCode":2833,"gst":18},{"id":13,"name":"Alum Powder (P) Ex. P.","hsnCode":2833,"gst":18},{"id":14,"name":"Ammonia 20%","hsnCode":2814,"gst":18},{"id":15,"name":"Ammonia P Grade","hsnCode":2814,"gst":18},{"id":16,"name":"Ammonia Solution Lr Grade (J)","hsnCode":2814,"gst":18},{"id":17,"name":"Ammonium Chloride","hsnCode":2827,"gst":18},{"id":18,"name":"Ammonium Chloride ( P )","hsnCode":2827,"gst":18},{"id":19,"name":"Ammonium Per Sulphate LR","hsnCode":2833,"gst":18},{"id":20,"name":"Aniline L/R ( L )","hsnCode":2921,"gst":18},{"id":21,"name":"Barium Carbonate","hsnCode":2836,"gst":18},{"id":22,"name":"Bees Wax Pure White ","hsnCode":1521,"gst":18},{"id":23,"name":"Bees Wax Pure Yellow LR","hsnCode":1521,"gst":18},{"id":24,"name":"Benzene","hsnCode":2902,"gst":18},{"id":25,"name":"Benzyl Alcohol LR Grade","hsnCode":2906,"gst":18},{"id":26,"name":"Benzyl Benzoate","hsnCode":2916,"gst":18},{"id":27,"name":"Bismuth Metal Powder AR ( O )","hsnCode":8106,"gst":18},{"id":28,"name":"Bleaching Powder (A1 Grade)","hsnCode":2828,"gst":18},{"id":29,"name":"Bleaching Powder (A1 Grade) -G","hsnCode":2828,"gst":18},{"id":30,"name":"Bleaching Powder A-1 Grade","hsnCode":2828,"gst":18},{"id":31,"name":"Borax ( L )","hsnCode":2840,"gst":18},{"id":32,"name":"Borax Powder","hsnCode":2840,"gst":18},{"id":33,"name":"Boric Ex. P","hsnCode":2810,"gst":18},{"id":34,"name":"Bromo Cresol Green Indicator Soln ( TB )","hsnCode":3822,"gst":12},{"id":35,"name":"Bromophenol Blue Indicator Soln","hsnCode":3822,"gst":12},{"id":36,"name":"Bromothymol Blue Solution","hsnCode":3822,"gst":18},{"id":37,"name":"Bronopol","hsnCode":2905,"gst":18},{"id":38,"name":"BUFFER AMMONIA SOLUTION ( TB )","hsnCode":3822,"gst":12},{"id":39,"name":"BUFFER CAPSULE pH 4.0 ( M )","hsnCode":3822,"gst":18},{"id":40,"name":"BUFFER CAPSULE pH 7.0 ( M )","hsnCode":3822,"gst":18},{"id":41,"name":"BUFFER SOLUTION pH 4.0 (T.B.)","hsnCode":3822,"gst":18},{"id":42,"name":"BUFFER SOLUTION pH 7.0 (T.B.)","hsnCode":3822,"gst":18},{"id":43,"name":"BUFFER SOLUTION pH 9.0 (T.B.)","hsnCode":3822,"gst":18},{"id":44,"name":"Burette 50 ml ( J . S )","hsnCode":7017,"gst":18},{"id":45,"name":"Burette 50 ml ( J . S )","hsnCode":7017,"gst":18},{"id":46,"name":"Burette Amber 50 ml ( L )","hsnCode":7017,"gst":18},{"id":47,"name":"Burette Clamp ","hsnCode":7017,"gst":18},{"id":48,"name":"Burette Stand","hsnCode":9027,"gst":18},{"id":49,"name":"Butyl Glycol ","hsnCode":2909,"gst":18},{"id":50,"name":"Calcium Carbonate","hsnCode":2836,"gst":18}],"state":[{"id":"01","name":"Jammu & Kashmir"},{"id":"02","name":"Himachal Pradesh"},{"id":"03","name":"Punjab"},{"id":"04","name":"Chandigarh"},{"id":"05","name":"Uttarakhand"},{"id":"06","name":"Haryana"},{"id":"07","name":"Delhi"},{"id":"08","name":"Rajasthan"},{"id":"09","name":"Uttar Pradesh"},{"id":"10","name":"Bihar"},{"id":"11","name":"Sikkim"},{"id":"12","name":"Arunachal Pradesh"},{"id":"13","name":"Nagaland"},{"id":"14","name":"Manipur"},{"id":"15","name":"Mizoram"},{"id":"16","name":"Tripura"},{"id":"17","name":"Meghalaya"},{"id":"18","name":"Assam"},{"id":"19","name":"West Bengal"},{"id":"20","name":"Jharkhand"},{"id":"21","name":"Odisha"},{"id":"22","name":"Chhattisgarh"},{"id":"23","name":"Madhya Pradesh"},{"id":"24","name":"Gujarat"},{"id":"25","name":"Daman & Diu"},{"id":"26","name":"Dadra & Nagar Haveli"},{"id":"27","name":"Maharashtra"},{"id":"29","name":"Karnataka"},{"id":"30","name":"Goa"},{"id":"31","name":"Lakshdweep"},{"id":"32","name":"Kerala"},{"id":"33","name":"Tamil Nadu"},{"id":"34","name":"Puducherry"},{"id":"35","name":"Andaman & Nicobar Islands"},{"id":"36","name":"Telangana"},{"id":"37","name":"Andhra Pradesh"},{"id":"97","name":"Other Territory"}]}
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "A.B.F",
+      "hsnCode": 2826,
+      "gst": 18
+    },
+    {
+      "id": 2,
+      "name": "Acetic Acid ",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 3,
+      "name": "Acetic Acid 50% ",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 4,
+      "name": "Acetic Acid L/R",
+      "hsnCode": 2915,
+      "gst": 18
+    },
+    {
+      "id": 5,
+      "name": "Acetone",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 6,
+      "name": "Acetone Ex. P Grade",
+      "hsnCode": 2914,
+      "gst": 18
+    },
+    {
+      "id": 7,
+      "name": "Activated Carbon Granuels",
+      "hsnCode": 3802,
+      "gst": 18
+    },
+    {
+      "id": 8,
+      "name": "Activated Carbon Powder ",
+      "hsnCode": 3802,
+      "gst": 18
+    },
+    {
+      "id": 9,
+      "name": "Aeroma Floor Cleaner ( LG )",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 10,
+      "name": "AEROMA PERFUMED FLOOR CLEANER ",
+      "hsnCode": 3824,
+      "gst": 18
+    },
+    {
+      "id": 11,
+      "name": "Aerosil 200 ( IMP )",
+      "hsnCode": 2811,
+      "gst": 18
+    },
+    {
+      "id": 12,
+      "name": "Alum Crystal",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 13,
+      "name": "Alum Powder (P) Ex. P.",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 14,
+      "name": "Ammonia 20%",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 15,
+      "name": "Ammonia P Grade",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 16,
+      "name": "Ammonia Solution Lr Grade (J)",
+      "hsnCode": 2814,
+      "gst": 18
+    },
+    {
+      "id": 17,
+      "name": "Ammonium Chloride",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 18,
+      "name": "Ammonium Chloride ( P )",
+      "hsnCode": 2827,
+      "gst": 18
+    },
+    {
+      "id": 19,
+      "name": "Ammonium Per Sulphate LR",
+      "hsnCode": 2833,
+      "gst": 18
+    },
+    {
+      "id": 20,
+      "name": "Aniline L/R ( L )",
+      "hsnCode": 2921,
+      "gst": 18
+    },
+    {
+      "id": 21,
+      "name": "Barium Carbonate",
+      "hsnCode": 2836,
+      "gst": 18
+    },
+    {
+      "id": 22,
+      "name": "Bees Wax Pure White ",
+      "hsnCode": 1521,
+      "gst": 18
+    },
+    {
+      "id": 23,
+      "name": "Bees Wax Pure Yellow LR",
+      "hsnCode": 1521,
+      "gst": 18
+    },
+    {
+      "id": 24,
+      "name": "Benzene",
+      "hsnCode": 2902,
+      "gst": 18
+    },
+    {
+      "id": 25,
+      "name": "Benzyl Alcohol LR Grade",
+      "hsnCode": 2906,
+      "gst": 18
+    }
+  ],
+  "state": [
+    {
+      "id": "02",
+      "name": "Himachal Pradesh"
+    },
+    {
+      "id": "03",
+      "name": "Punjab"
+    },
+    {
+      "id": "04",
+      "name": "Chandigarh"
+    },
+    {
+      "id": "05",
+      "name": "Uttarakhand"
+    },
+    {
+      "id": "06",
+      "name": "Haryana"
+    },
+    {
+      "id": "07",
+      "name": "Delhi"
+    },
+    {
+      "id": "08",
+      "name": "Rajasthan"
+    },
+    {
+      "id": "09",
+      "name": "Uttar Pradesh"
+    },
+    {
+      "id": "10",
+      "name": "Bihar"
+    },
+    {
+      "id": "12",
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "id": "18",
+      "name": "Assam"
+    },
+    {
+      "id": "19",
+      "name": "West Bengal"
+    },
+    {
+      "id": "20",
+      "name": "Jharkhand"
+    },
+    {
+      "id": "21",
+      "name": "Odisha"
+    },
+    {
+      "id": "22",
+      "name": "Chhattisgarh"
+    },
+    {
+      "id": "23",
+      "name": "Madhya Pradesh"
+    },
+    {
+      "id": "24",
+      "name": "Gujarat"
+    },
+    {
+      "id": "25",
+      "name": "Daman & Diu"
+    },
+    {
+      "id": "26",
+      "name": "Dadra & Nagar Haveli"
+    },
+    {
+      "id": "27",
+      "name": "Maharashtra"
+    },
+    {
+      "id": "29",
+      "name": "Karnataka"
+    },
+    {
+      "id": "30",
+      "name": "Goa"
+    },
+    {
+      "id": "31",
+      "name": "Lakshdweep"
+    },
+    {
+      "id": "32",
+      "name": "Kerala"
+    },
+    {
+      "id": "33",
+      "name": "Tamil Nadu"
+    },
+    {
+      "id": "34",
+      "name": "Puducherry"
+    },
+    {
+      "id": "35",
+      "name": "Andaman & Nicobar Islands"
+    },
+    {
+      "id": "36",
+      "name": "Telangana"
+    },
+    {
+      "id": "37",
+      "name": "Andhra Pradesh"
+    }
+  ]
+}
